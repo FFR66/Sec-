@@ -1,1 +1,1 @@
-# 靶场地址：https://sec.sicau.edu.cn
+# 靶场地址：http://47.99.75.19/
